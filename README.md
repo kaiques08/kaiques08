@@ -17,4 +17,4 @@ Olá! Eu sou o Kaique 👋
 - *H.M Store* — Loja de Móveis para casa.
 
 📫 Contato
-[LinkedIn](in/ kaique-santos-silva-b8678138a) • kaiquesantossilva1908@gmail.com
+[LinkedIn](https://www.linkedin.com/in/%20kaique-santos-silva-b8678138a) • kaiquesantossilva1908@gmail.com
