@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá! Eu sou o Kaique 👋
 
-<!--
-**kaiques08/kaiques08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Junior
+🌱 Atualmente estudando Desenvolvinto de Sistemas no Senai 
+🚀 Apaixonado por projetos open-source  
 
-Here are some ideas to get you started:
+🧑‍💻 Tecnologias
+- JavaScript | Python
+- Sql | Cisco  
+- HTML | CSS | Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏗️ Projetos em destaque
+- *Catraca* — Site para criar/imprimir tickets que registram, saida, perda de cracha, etc...
+  Feito para, Senai Roberto Simonsen.
+- *H.M Store* — Loja de Móveis para casa.
+
+📫 Contato
+[LinkedIn](in/ kaique-santos-silva-b8678138a) • kaiquesantossilva1908@gmail.com
