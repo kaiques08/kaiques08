@@ -2,7 +2,7 @@ Olá! Eu sou o Kaique 👋
 
 💻 Desenvolvedor Junior
 
-🌱 Atualmente estudando Desenvolvinto de Sistemas no Senai
+📖 Estudante de Desenvolvinto de Sistemas no Senai
 
 🚀 Apaixonado por projetos open-source  
 
